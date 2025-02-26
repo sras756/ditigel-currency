@@ -1,0 +1,29 @@
+{
+  "project": {
+    "name": "Digital Currency Creator",
+    "version": "1.0.0",
+    "description": "A web application for creating and managing digital currencies.",
+    "author": "Your Name",
+    "license": "MIT"
+  },
+  "firebaseConfig": {
+    "apiKey": "YOUR_API_KEY",
+    "authDomain": "YOUR_AUTH_DOMAIN",
+    "projectId": "YOUR_PROJECT_ID",
+    "storageBucket": "YOUR_STORAGE_BUCKET",
+    "messagingSenderId": "YOUR_MESSAGING_SENDER_ID",
+    "appId": "YOUR_APP_ID"
+  },
+  "features": [
+    "Create digital currencies",
+    "Upload currency images",
+    "Real-time updates",
+    "Public currencies list"
+  ],
+  "dependencies": {
+    "firebase": "^9.6.10"
+  },
+  "scripts": {
+    "start": "Open index.html in a browser"
+  }
+}
